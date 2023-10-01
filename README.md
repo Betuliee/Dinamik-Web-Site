@@ -8,4 +8,4 @@ CSS
 
 <h2> Ekran Görünümü</h2>
 
-![](img/shoe.png)
+![](img/screen.gif)
